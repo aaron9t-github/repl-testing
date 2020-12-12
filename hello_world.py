@@ -1,1 +1,1 @@
-print("Hello, World!  How it is going?")
+print("Hello, friend")
